@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @yumaaji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Selamat datang di Repositori Pembelajaran Saya! :rocket:
 
-<!---
-yumaaji/yumaaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Halo! Saat ini saya sedang belajar HTML, CSS, JavaScript, dan PHP. Repositori ini, `yumaaji/yumaaji`, adalah tempat di mana saya menyimpan proyek-proyek latihan dan percobaan saya seiring dengan kemajuan saya dalam perjalanan pembelajaran.
+
+## Tentang Saya
+
+- :bust_in_silhouette: **Nama:** [Nama Anda]
+- :round_pushpin: **Lokasi:** [Lokasi Anda]
+- :dart: **Minat:** Pengembangan Web, Pemrograman, [Minat Lain Anda]
+
+## Tujuan Pembelajaran Saya
+
+- [ ] Kuasai dasar-dasar HTML
+- [ ] Pelajari teknik layout CSS
+- [ ] Pahami dasar-dasar JavaScript
+- [ ] Bangun website dinamis dengan PHP
+
+## Proyek-proyek
+
+- [ ] Website Pribadi Sederhana
+- [ ] Aplikasi Daftar Tugas dengan JavaScript
+- [ ] Platform Blogging dengan PHP
+
+Jangan ragu untuk menjelajahi proyek-proyek saya dan memberikan umpan balik atau saran untuk perbaikan. Selamat coding! :muscle:
