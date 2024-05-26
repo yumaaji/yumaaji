@@ -6,9 +6,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/yumaaji12/)](https://www.instagram.com/yumaaji12)
 
 
-[![Github](https://img.shields.io/github/followers/yumaaji?label=Follow&style=social)](https://github.com/yumaaji)
-
-
 
 
 ### ⚙️ Tech Stack
@@ -17,6 +14,3 @@
 
 
 
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
